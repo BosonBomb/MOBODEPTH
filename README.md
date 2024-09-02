@@ -1,4 +1,4 @@
 # MOBO_DEPTH
 
-An Android depth estimation cam which uses pure vision algorithms and not 'Augmented Reality' for depth estimation.
+An Android depth estimation app (aka Android Meaasure)  which uses pure vision algorithms and not 'Augmented Reality' for depth estimation.
 
